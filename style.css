@@ -1,0 +1,27 @@
+.nav {
+    float: inline-end;
+}
+
+img[src*="https://thehill.com/sites/default/files/harriet_tubman_20_bill.png"] {
+    width: 100px;
+    height: 50px;
+}
+    
+
+.column{
+    float:left;
+    width:auto;
+    padding: 5px;
+}
+label {
+    float: inline-end;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.search{
+    float:inline-end
+}
+
+form {
+    background: lightgray;
+}
